@@ -1,5 +1,3 @@
-LikiyaWay Project
-
-Установить Gulp & Bootstrap
-
-создать index
+* LikiyaWay Project
+* Установить Gulp & Bootstrap
+* Создать index
